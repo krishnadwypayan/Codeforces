@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FindTheBone {
+public class CF796_D2_B_FindTheBone {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(), m = scanner.nextInt(), k = scanner.nextInt();

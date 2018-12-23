@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class StudentsAndShoelaces {
+public class CF129_D2_B_StudentsAndShoelaces {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(), m = scanner.nextInt();

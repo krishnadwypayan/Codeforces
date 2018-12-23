@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Keyboard {
+public class CF88_D2_B_Keyboard {
 
     private static double dist(int a, int b, int c, int d) {
         return (Math.sqrt(Math.pow(a-c, 2) + Math.pow(b-d, 2)));
